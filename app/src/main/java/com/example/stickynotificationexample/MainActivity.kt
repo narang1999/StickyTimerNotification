@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     companion object {
-        const val STICKY_NOTIFICATION_ID: Int = 8376
+        const val STICKY_NOTIFICATION_ID: Int = 83761
         const val CHANNEL_ID = "channel_id"
     }
 }
